@@ -8,4 +8,4 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&duration=4000&pause=100&color=14a318&center=true&vCenter=true&width=435&lines=ladies+im+already+taken+leave+me+alone;type+shit" alt="Typing SVG" /></a>
 </div>
-<div align="center"><img width="800" height="800" alt="tumblr_7edf082ad73dd1e044aa7be35447a122_fd3fda1a_1280" src="https://github.com/user-attachments/assets/db2e4efc-dc06-47eb-b90e-8ded073114cd" />
+<img width="617" height="610" alt="image" src="https://github.com/user-attachments/assets/e2ba1739-e5a4-438e-9d03-0338a56de9d4" />
